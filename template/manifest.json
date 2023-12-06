@@ -1,1 +1,1 @@
-{"name":"Template Plugin","description":"A plugin for use as a template.","authors":[{"name":"You!","id":"YOUR_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"6cb6594aa032b83a1f24c2bb3d63e8aeb8e1652e0361e7d7a0e415850cc9c406"}
+{"name":"InvisibleChat","description":"A Cool Plugin to Send Encrypted Messages. (Powercord Port)","authors":[{"name":"onglee :3","id":"379134362014449665"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff"},"hash":"1aee8b0262de062b40809d7290c88561d3f89841cf74b35df8e73047ded97ca3"}
