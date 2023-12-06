@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "InvisibleChat",
+    "description": "A Cool Plugin to Send Encrypted Messages. (Powercord Port)",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "onglee :3",
+            "id": "379134362014449665"
         }
     ],
     "main": "src/index.ts",

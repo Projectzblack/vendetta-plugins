@@ -3,7 +3,7 @@ import Settings from "./Settings";
 
 export default {
     onLoad: () => {
-        logger.log("Hello world!");
+        logger.log("Hello! Haiii!! :3 :333");
     },
     onUnload: () => {
         logger.log("Goodbye, world.");
